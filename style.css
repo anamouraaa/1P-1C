@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=DynaPuff:wght@400..700&display=swap');
+body{
+    background-color: aliceblue;
+    color: blueviolet;
+    font-family: "DynaPuff", system-ui;
+}
+p{
+color: aquamarine
+background-color:brown
+}
+h1{
+    text-align:cent ;
+    font-weight: 700;
+    font-size: ;
+}
